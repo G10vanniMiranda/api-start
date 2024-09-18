@@ -1,0 +1,18 @@
+{
+    "usuario" : [
+        { 
+            "id" : 1,
+            "nome": "Rodrigo Nascimento",
+            "telefone": "62 9999-8888",
+            "email": "admin@gmail.com",
+            "senha": "123456"
+        },
+        {
+            "id" : 2,
+            "nome": "Antônio Silva",
+            "telefone": "62 9999-8888",
+            "email": "admin@gmail.com",
+            "senha": "123456"
+        }
+    ]
+}
