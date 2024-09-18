@@ -1,7 +1,9 @@
 #### Criando uma API
 
 * 1. comando para iniciar um projeto nodeJS <br>
+```
 npm init -y
+```
 
 * 2. Dependência json-server <br />
 ```
@@ -33,8 +35,10 @@ npm install json-server
 }
 ```
 
-* 5. Rodar nossa api
+* 5. Rodar nossa api <br>
+```
 npx json-server banco.json
+```
 
 #### Referências
 * Biblioteca ou Tecnologia
