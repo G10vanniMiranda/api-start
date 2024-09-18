@@ -1,14 +1,17 @@
 #### Criando uma API
 
-* 1. comando para iniciar um projeto nodeJS
+* 1. comando para iniciar um projeto nodeJS <br>
 npm init -y
 
-* 2. Dependência json-server
+* 2. Dependência json-server <br />
+```
 npm install json-server
+```
 
-* 3. criar um arquivo banco.json
+* 3. criar um arquivo banco.json <br />
 
-* 4. colocar os dados iniciais. banco.json
+* 4. colocar os dados iniciais. banco.json <br />
+```
 {
     "usuario" : [
         { 
@@ -28,6 +31,7 @@ npm install json-server
 
     ]
 }
+```
 
 * 5. Rodar nossa api
 npx json-server banco.json
