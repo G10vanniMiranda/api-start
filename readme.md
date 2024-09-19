@@ -1,5 +1,5 @@
 #### Criando uma API
-
+mkdir novapasta
 * 1. comando para iniciar um projeto nodeJS <br>
 ```
 npm init -y
@@ -55,5 +55,9 @@ npx json-server banco.json
 * Deletar
 
 * Listar
+http://localhost:3000/usuario
+
+* Listar/id
+http://localhost:3000/usuario/1
 
 * Atualizar / Editar
