@@ -1,5 +1,7 @@
 #### Criando uma API
-mkdir novapasta
+
+mkdir -> novapasta
+
 * 1. comando para iniciar um projeto nodeJS <br>
 ```
 npm init -y
