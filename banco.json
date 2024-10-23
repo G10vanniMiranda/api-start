@@ -1,18 +1,46 @@
 {
-    "usuario" : [
-        { 
-            "id" : 1,
-            "nome": "Rodrigo Nascimento",
-            "telefone": "62 9999-8888",
-            "email": "admin@gmail.com",
-            "senha": "123456"
-        },
-        {
-            "id" : 2,
-            "nome": "Antônio Silva",
-            "telefone": "62 9999-8888",
-            "email": "admin@gmail.com",
-            "senha": "123456"
-        }
-    ]
+  "usuario": [
+    {
+      "id": "1",
+      "nome": "Rodrigo Nascimento",
+      "telefone": "62 9999-8888",
+      "email": "admin@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "2",
+      "nome": "Antônio Silva",
+      "telefone": "62 9999-8888",
+      "email": "admin@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "6d5d",
+      "nome": "Dayanne",
+      "telefone": "9999-9999",
+      "email": "dayanne@hotmail.com",
+      "senha": "123"
+    },
+    {
+      "id": "c71b",
+      "nome": "Alex",
+      "telefone": "9999-9999",
+      "email": "alex@hotmail.com",
+      "senha": "123"
+    },
+    {
+      "id": "9294",
+      "nome": "Xavier",
+      "telefone": "9999-9999",
+      "email": "xavier@hotmail.com",
+      "senha": "123"
+    },
+    {
+      "id": "31a5",
+      "nome": "Giovanni",
+      "telefone": "99921-0459",
+      "email": "giovanni@hotmail.com",
+      "senha": "9402"
+    }
+  ]
 }
